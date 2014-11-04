@@ -1,6 +1,6 @@
 {
-  "name": "ejsify",
-  "version": "1.0.0",
+  "name": "ejs-renderify",
+  "version": "0.1",
   "main": "index.js",
   "dependencies": {
     "ejs": "~1.0.0",
@@ -9,16 +9,16 @@
   "devDependencies": {
     "browserify": "~3.32.1"
   },
-  "description": "EJS precompiler for browserify",
+  "description": "EJS renderer for browserify",
   "keywords": [
     "ejs",
     "browserify",
     "precompiler"
   ],
-  "author": "Hugh Kennedy <hughskennedy@gmail.com> (http://hughskennedy.com/)",
+  "author": "Michele Piccirillo <m.piccirillo@themishub.com>",
   "repository": {
     "type": "git",
-    "url": "git://github.com/hughsk/ejsify.git"
+    "url": "git://github.com/themishub/ejs-renderify.git"
   },
   "license": "MIT"
 }
